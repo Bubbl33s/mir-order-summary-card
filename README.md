@@ -47,13 +47,17 @@ This is a solution to the '**404 not found**' project of the Make It Real course
 - iPad Mini & iPhone SE
   <br />
   <img src="./design/ipad-mini-result.png" width="55%" />
-  <img src="./design/iphone-se-result.png" width="42%" />
+  <img src="./design/iphone-se-result.png" width="41%" />
 
 - Status
   <br />
   <img src="./design/status-1.png" width="32%" />
   <img src="./design/status-2.png" width="32%" />
   <img src="./design/status-3.png" width="32%" />
+
+### Deploy
+
+**[Go to site](https://main--mir-order-summary-card.netlify.app/)** ↗️
 
 ## My process
 
@@ -80,6 +84,7 @@ This is a solution to the '**404 not found**' project of the Make It Real course
 - [Google Fonts](https://fonts.google.com/) - It provided the main font used in the project.
 - [Optimizilla](https://imagecompressor.com/) - To optimize the screenshots.
 - [Tailwind CSS Docs](https://tailwindcss.com/docs/installation) - Documentation
+- [Netlify](https://www.netlify.com/) - Deploy
 
 ## Author
 
