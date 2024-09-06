@@ -1,9 +1,13 @@
 export default function CardPricing() {
   return (
     <>
-      <section className="mb-6 bg-indigo-100/30 rounded-xl flex items-center justify-between mx-auto px-5 py-4">
-        <div className="flex items-center gap-3">
-          <img src="/icon-music.svg" alt="Music icon" />
+      <section className="mb-6 bg-indigo-100/30 rounded-xl flex items-center justify-between mx-auto p-4 text-[13px] md:text-base">
+        <div className="flex items-center gap-2 md:gap-3">
+          <img
+            src="/icon-music.svg"
+            alt="Music icon"
+            className="h-10 md:h-auto"
+          />
           <div>
             <h2 className="font-black text-blue-950 ">Annual Plan</h2>
             <p>$59.99/year</p>
