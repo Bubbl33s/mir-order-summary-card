@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div className="main-container flex h-screen">
-        <main className="mx-auto flex items-center w-fit">
+        <main className="mx-auto flex items-center">
           <Card />
         </main>
       </div>
