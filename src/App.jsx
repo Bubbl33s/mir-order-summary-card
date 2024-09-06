@@ -1,7 +1,13 @@
+import Card from "./components/Card";
+
 function App() {
   return (
     <>
-      <h1>My first React App</h1>
+      <div className="main-container flex h-screen">
+        <main className="mx-auto flex items-center w-fit">
+          <Card />
+        </main>
+      </div>
     </>
   );
 }
